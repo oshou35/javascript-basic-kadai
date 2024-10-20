@@ -2,7 +2,7 @@
 計算結果（関数の戻り値）はコンソールに出力してください。*/
 
 const double = (num)=>{
-  return num*2;
+  return num*num;
 }
 
 console.log(double(50));
